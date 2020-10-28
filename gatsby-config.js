@@ -32,6 +32,11 @@ module.exports = {
             title: `About`,
             slug: `/about`,
           },
+          {
+            title: `Contact me`,
+            slug: `mailto:deebov@yandex.com`,
+            isExternal: true,
+          },
         ],
         externalLinks: [
           {
@@ -39,13 +44,21 @@ module.exports = {
             url: `https://github.com/deebov`,
           },
           {
-            name: `Twitter`,
-            url: `https://twitter.com/deebovv`,
+            name: `Dribbble`,
+            url: `https://dribbble.com/deebov`,
           },
-          {
-            name: `Instagram`,
-            url: `https://www.instagram.com/deebov`,
-          },
+          // {
+          //   name: `Email`,
+          //   url: `mailto:deebov@yandex.com`,
+          // },
+          // {
+          //   name: `Twitter`,
+          //   url: `https://twitter.com/deebovv`,
+          // },
+          // {
+          //   name: `Instagram`,
+          //   url: `https://www.instagram.com/dilshod.trbv`,
+          // },
         ],
       },
     },
