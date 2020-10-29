@@ -9,11 +9,8 @@ module.exports = {
     siteTitleAlt: `Dilshod's personal website`,
     siteTitle: `Dilshod`,
     siteHeadline: `Dilshod's personal website`,
-    siteUrl: `https://minimal-blog.lekoarts.de`,
-    siteDescription: `I'm Dilshod - I make modern web and mobile apps that are delighful to use for
-    useryone♿️. Besides developing those apps, I like to design them as well. Oh,
-    yeah, and I am a coffee addict. If you happen to be in beautiful Almaty, hit me
-    up, let's get some coffee☕️ and chat😉.`,
+    siteUrl: `https://dilshod.cool`,
+    siteDescription: `I'm Dilshod - I make modern web and mobile apps that are delighful to use for useryone♿️. Besides developing those apps, I like to design them as well. Oh, yeah, and I am a coffee addict. If you happen to be in beautiful Almaty, hit me up, let's get some coffee☕️ and chat😉.`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
     author: `@lekoarts_de`,
@@ -72,7 +69,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
+        name: `Dilshod's personal website`,
         short_name: `minimal-blog`,
         description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
         start_url: `/`,
